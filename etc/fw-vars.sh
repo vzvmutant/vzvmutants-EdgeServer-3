@@ -5,7 +5,7 @@
 # Identity
 ROUTER_NAME="Edgie_McEdgeface"
 HOSTNAME="SingularitiesEdge"
-DOMAIN="vzvmutants.damnserver.com"
+DOMAIN="vzvmutants.ddns.me"
 
 # Interfaces
 WAN_IF="vlan2"
