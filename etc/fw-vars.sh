@@ -1,3 +1,9 @@
+# ─────────────────────────────────────────────────────────────
+#  Author : Loran McCormick
+#  Email  : loranmccormick@icloud.com
+#  Role   : Firewall / edge server coding and architecture
+# ─────────────────────────────────────────────────────────────
+
 ###############################################
 # Top-Level Variables for DD-WRT BusyBox Firewall
 ###############################################

@@ -1,3 +1,9 @@
+# ─────────────────────────────────────────────────────────────
+#  Author : Loran McCormick
+#  Email  : loranmccormick@icloud.com
+#  Role   : Firewall / edge server coding and architecture
+# ─────────────────────────────────────────────────────────────
+
 #!/bin/sh
 # SPDX-License-Identifier: Apache-2.0
 #
