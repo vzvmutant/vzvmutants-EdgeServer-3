@@ -57,7 +57,10 @@ LOG_PREFIX_DROP="[DROP] "
 LOG_PREFIX_ACCEPT="[ACCEPT] "
 LOG_LIMIT="5/min"
 LOG_BURST="10"
-LOG_LEVEL="4"
+LOG_LEVEL="4
+# Logging directory
+LOG_DIR="/opt/var/log"
+LOG_FILE_FIREWALL="$LOG_DIR/firewall.log""
 
 # Custom Chains
 CHAIN_WAN_IN="WAN_IN"
